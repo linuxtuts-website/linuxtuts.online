@@ -1,16 +1,15 @@
-# LinuxTuts Website
-🌐 **Live Site:** https://linuxtuts.online/
+# LinuxTuts (closed)
 
-## About
-Practical Linux tutorials and system hardening guides.
+LinuxTuts is closed. This repository is archived and kept only for reference.
 
-## Contents
+Tutorials and tools continue on **https://vaevictisos.org/learn**, the website of VaeVictis OS.
+
+## Contents (archived, not maintained)
+
 - SSH hardening configurations
 - Fail2ban and nftables firewall scripts
 - System administration automation
 
-## Contributing
-Pull requests welcome!
-
 ## License
+
 MIT
