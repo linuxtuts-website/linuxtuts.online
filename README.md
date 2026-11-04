@@ -1,4 +1,4 @@
-# LinuxTuts (closed)
+# LinuxTuts (closed).
 
 LinuxTuts is closed. This repository is archived and kept only for reference.
 
